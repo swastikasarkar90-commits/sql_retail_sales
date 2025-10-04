@@ -205,7 +205,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
 - **Email**: [swastikasarkar90@gmail.com]
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/swastika-sarkar-31a12b234)
+- **LinkedIn**: [www.linkedin.com/in/swastika-sarkar-31a12b234]
 
 Thank you for your support, and I look forward to connecting with you!
+
 
